@@ -16,4 +16,5 @@ A clean, modern and responsive **music streaming web player interface** built wi
 - CSS
 
 ## 🌐 Live Demo
+ https://ayushkeshari07.github.io/Music-Streaming-Web-Player-UI/
 
